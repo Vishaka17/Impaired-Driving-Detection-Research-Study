@@ -74,4 +74,30 @@ Dataset size: **1,000+ time-synced multi-sensor observations**
 ---
 
 ## 📁 Repository Structure
+data/
+notebooks/
+dashboards/
+scripts/
+reports/
+images/
+
+---
+
+## 🚀 Future Work
+- Real-time in-vehicle impairment detection  
+- Deep learning models for time-series ECG  
+- DMS (camera) based multimodal fusion  
+- Larger participant diversity  
+
+---
+
+## 🛠 Tools & Technologies
+Python • Pandas • Scikit-Learn • NumPy • Matplotlib  
+BITalino ECG • Power BI • Excel • Jupyter Notebook
+
+---
+
+## 👩‍💻 Author
+**Vishaka Sharma**  
+Business Analytics | Data Science  
 
