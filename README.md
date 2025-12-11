@@ -73,16 +73,6 @@ Dataset size: **1,000+ time-synced multi-sensor observations**
 
 ---
 
-## 📁 Repository Structure
-data/
-notebooks/
-dashboards/
-scripts/
-reports/
-images/
-
----
-
 ## 🚀 Future Work
 - Real-time in-vehicle impairment detection  
 - Deep learning models for time-series ECG  
